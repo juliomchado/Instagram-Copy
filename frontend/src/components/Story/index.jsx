@@ -12,55 +12,55 @@ export default props => {
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
                 <div className="person-story">
                     <figure className="storyFigure">
                         <img src={storyTest} alt="Pessoa" className="storyImg" />
                     </figure>
-                    <label htmlFor="img">João Pedro</label>
+                    <label htmlFor="img">joaopedro</label>
                 </div>
             </div>
         </Story>

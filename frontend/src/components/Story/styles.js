@@ -19,8 +19,9 @@ export const Story = styled.div`
 
     label{
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-size: 14px;
+        font-size: 12px;
         color: #262626;
+        font-weight: 400;
     }
 
 

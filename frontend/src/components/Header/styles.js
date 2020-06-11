@@ -7,6 +7,8 @@ export const Header = styled.header`
     height: 77px;
     border-bottom: 1px solid #d4d4d4;
     background-color: #ffff;
+    padding-left: 13%;
+    padding-right: 13%;
 
     .content{
         display: flex;
@@ -15,8 +17,8 @@ export const Header = styled.header`
         max-width: 975px;
         padding: 26px 20px;
         height: 100%;
-        margin-left: 13%;
-        margin-right: 13%;
+        margin: 0 auto;
+       
     }
 
     .content .logo-div{
