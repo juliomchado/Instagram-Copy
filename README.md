@@ -1,5 +1,5 @@
 # Instagram-Copy
-Projeto criado em react onde desenvolvi a página principal do Instagram Web tentando ser o mais fiel possivel
+Projeto criado em react onde desenvolvi o frontend da página principal do Instagram Web
 
  
 Tecnologia: <br>
