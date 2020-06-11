@@ -15,6 +15,7 @@ export const Story = styled.div`
         padding: 16px 0 16px 16px;
         margin-bottom: 24px;
         overflow: hidden;  
+        border-radius: 3px;
     }
 
     label{

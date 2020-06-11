@@ -52,7 +52,7 @@ export default props => {
                     </div>
                     <div className="commentDiv">
                         <Link className="userName">lucas</Link>
-                        <p className="text">Legaal 👌</p>
+                        <p className="text">Legaal</p>
                     </div>
                     <div className="commentDiv">
                         <Link className="userName">joaozinho</Link>
@@ -99,7 +99,7 @@ export default props => {
                     </div>
                     <div className="commentDiv">
                         <Link className="userName">lucas</Link>
-                        <p className="text">Legaal 👌</p>
+                        <p className="text">Legaal </p>
                     </div>
                     <div className="commentDiv">
                         <Link className="userName">joaozinho</Link>

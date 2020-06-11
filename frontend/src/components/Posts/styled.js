@@ -8,10 +8,9 @@ export const Posts = styled.div`
         height: auto;
         max-width: 614px;
         max-height: 1074.5px;
-        margin-bottom: 60px;
         border: 1px solid #d4d4d4;
         border-radius: 3px;
-
+        margin-bottom: 60px;
 
     .text{
         flex-wrap: wrap;
