@@ -28,6 +28,7 @@ export const Section = styled.section`
         margin-right: 28px;
         flex-direction: column;
         align-items: flex-start;
+        right: 110px;
     }
     .personal{
         position: fixed;
@@ -156,6 +157,8 @@ export const Section = styled.section`
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-left: 8%;
+        right: 0;
         }
         display: flex;
         flex-direction: column;
