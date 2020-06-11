@@ -3,8 +3,10 @@ import styled from 'styled-components'
 export const Header = styled.header`
     position: fixed;
     width: 100%;
+    z-index: 1000;
     height: 77px;
     border-bottom: 1px solid #d4d4d4;
+    background-color: #ffff;
 
     .content{
         display: flex;
@@ -73,7 +75,7 @@ export const Header = styled.header`
         position:relative;
         width: 11px;
         height: 11px;
-        left: 33%;
+        left: 30%;
         color: #a8a8a8;
         margin-right: 5px;
      }
@@ -99,5 +101,25 @@ export const Header = styled.header`
         display:flex;
         justify-content: space-between;
         width: 210px;
+    }
+
+    .close-icon{
+        position: relative;
+        right: 10px;
+        width: 16px;
+        height: 16px;
+        opacity: 0;
+    }
+    .close-icon.active{
+        opacity: 1;
+    }
+
+    @media (max-width: 884px){
+        .content .input-div,
+        .content .input-div input,
+        .content .input-div .search-icon
+        {
+            display: none;
+        }
     }
 `

@@ -9,6 +9,7 @@ import { ReactComponent as Explore } from '../../assets/imgs/icons/Explore.svg'
 import { ReactComponent as Inbox } from '../../assets/imgs/icons/Inbox.svg'
 import { FaSearch } from 'react-icons/fa'
 import { BsHeart } from 'react-icons/bs'
+import { AiFillCloseCircle } from 'react-icons/ai'
 
 export default props => {
 
@@ -38,12 +39,13 @@ export default props => {
                         onChange={e => setInputContent({ text: e.target.value, focus: true })}
                         onFocus={verifySearch}
                         onBlur={verifySearch} />
+                    <AiFillCloseCircle className={inputContent.focus ? 'close-icon active' : 'close-icon'} onClick={e => setInputContent({...inputContent, focus: false})}/>
                 </div>
                 <div className="icons-div">
                     <Inbox style={{ width: 24, height: 24, cursor: 'pointer' }} />
                     <Explore style={{ width: 24, height: 24, cursor: 'pointer' }} />
-                    <BsHeart style={{ width: 24, height: 24, cursor: 'pointer', color: '#262626'}} />
-                    <FiUser style={{ width: 24, height: 24, cursor: 'pointer', color: '#262626'}} />
+                    <BsHeart style={{ width: 24, height: 24, cursor: 'pointer', color: '#262626' }} />
+                    <FiUser style={{ width: 26, height: 26, cursor: 'pointer', color: '#262626' }} />
                 </div>
             </div>
         </Header>

@@ -13,9 +13,7 @@ export default props => {
             <Main>
                 <SectionDiv>
                 </SectionDiv>
-
             </Main>
-
         </React.Fragment>
     )
 }
