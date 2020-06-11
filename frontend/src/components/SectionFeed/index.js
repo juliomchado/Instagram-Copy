@@ -32,7 +32,7 @@ export default props => {
                                 <img src={storyTest} alt="Pessoa" className="suggestionImg" />
                             </Link>
                             <div className="suggestion-names">
-                                <Link className="instaName">_trollzinhodoido</Link>
+                                <Link className="instaName">name_test</Link>
                                 <label htmlFor="users" className="suggestion-label">Novo no instagram</label>
                             </div>
                                 <button>Seguir</button>
@@ -42,7 +42,7 @@ export default props => {
                                 <img src={storyTest} alt="Pessoa" className="suggestionImg" />
                             </Link>
                             <div className="suggestion-names">
-                                <Link className="instaName">_trollzinhodoido</Link>
+                                <Link className="instaName">name_test</Link>
                                 <label htmlFor="users" className="suggestion-label">Sugestões para você</label>
                             </div>
                                 <button>Seguir</button>
@@ -52,7 +52,7 @@ export default props => {
                                 <img src={storyTest} alt="Pessoa" className="suggestionImg" />
                             </Link>
                             <div className="suggestion-names">
-                                <Link className="instaName">_trollzinhodoido</Link>
+                                <Link className="instaName">name_test</Link>
                                 <label htmlFor="users" className="suggestion-label">Novo no instagram</label>
                             </div>
                                 <button>Seguir</button>
@@ -62,7 +62,7 @@ export default props => {
                                 <img src={storyTest} alt="Pessoa" className="suggestionImg" />
                             </Link>
                             <div className="suggestion-names">
-                                <Link className="instaName">_trollzinhodoido</Link>
+                                <Link className="instaName">name_test</Link>
                                 <label htmlFor="users" className="suggestion-label">Novo no instagram</label>
                             </div>
                                 <button>Seguir</button>
@@ -72,7 +72,7 @@ export default props => {
                                 <img src={storyTest} alt="Pessoa" className="suggestionImg" />
                             </Link>
                             <div className="suggestion-names">
-                                <Link className="instaName">_trollzinhodoido</Link>
+                                <Link className="instaName">name_test</Link>
                                 <label htmlFor="users" className="suggestion-label">Sugestões para você</label>
                             </div>
                                 <button>Seguir</button>

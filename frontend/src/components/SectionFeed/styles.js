@@ -13,11 +13,13 @@ export const Section = styled.section`
     
     
     .instaName{
+        text-align: left;
        color: #262626;
        font-weight: 500;
        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
        font-size: 14px;
        outline: none;
+       width: 108px;
    }
     .feed{
         display: flex;
