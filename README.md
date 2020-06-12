@@ -2,11 +2,12 @@
 Projeto criado em react onde desenvolvi o frontend da página principal do Instagram Web
 
  
-Tecnologia: <br>
-React <br>
-HTML<br>
-Styled-Components
+## Tecnologia: <br>
+- React <br>
+- HTML<br>
+- Styled-Components
 
+## IMAGENS
 ![Insta1](https://user-images.githubusercontent.com/56945282/84439400-09bcd780-ac30-11ea-85b0-983300bf33af.png)
 
 
